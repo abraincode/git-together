@@ -6,10 +6,10 @@
 
 ## Perintah Git Dasar
 
-1. Membuat Repo: `git init`
-2. Mengecek Status: `git status`
-3. Menandai Perubahan: `git add`
-4. Menyimpan Perubahan: `git commit`
+1. Membuat Repo: `git init` yang akan membuat folder .git (biasanya hidden folder)
+2. Mengecek Status: `git status` untuk mengecek status pada repo kita
+3. Menandai Perubahan: `git add` untuk menaikan ke area on staging
+4. Menyimpan Perubahan: `git commit` untuk memberikan pesan di setiap commitan 
 5. Melihat Daftar Commit: `git log`
 
 
